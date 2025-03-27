@@ -3,4 +3,3 @@ pillow==9.5.0
 streamlit==1.12.0
 streamlit-option-menu==0.3.2
 altair==4.2.2
-zlib
