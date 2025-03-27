@@ -17,7 +17,7 @@ NAME = "Austino Nten Odey"
 DESCRIPTION = """
 Economist, Business Developer, Data Analyst, Leadership & Strategy Enthusiast
 """
-EMAIL = "emmychesh@yahoo.com"
+EMAIL = "austino.n.odey@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/austino-odey-a0757a262/",
     "GitHub": "https://github.com/OdeyAustino",
